@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GOUTHAM-GR
-- 👀 I’m interested in full stack development, from design to deployment 
+- 👀 I’m interested in full stack development, from designing to deployment 
 - 🌱 I’m currently learning REACT
 - 📫 How to reach me gouthamgowdar@gmail.com
 <!---
